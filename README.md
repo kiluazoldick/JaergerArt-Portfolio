@@ -41,7 +41,7 @@ Un portfolio interactif mettant en avant le travail créatif de **Jager Art**, u
 ---
 
 ## 🎨 Preview  
-![Jager Art Portfolio Preview]([https://github.com/kiluazoldick/JaergerArt-Portfolio/blob/main/preview.png](https://github.com/kiluazoldick/JaergerArt-Portfolio/blob/master/preview.png))
+![Jager Art Portfolio Preview](https://github.com/kiluazoldick/JaergerArt-Portfolio/blob/master/preview.png)
 
 ---
 
