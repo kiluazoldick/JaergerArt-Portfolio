@@ -1,7 +1,3 @@
-Voici une version mise à jour du **README** pour ton projet **JaergerArt-Portfolio** sur GitHub, en suivant le style que tu préfères :
-
----
-
 # 🎨 Jager Art - Portfolio
 
 Un portfolio interactif mettant en avant le travail créatif de **Jager Art**, un graphiste spécialisé en **branding**, **motion design**, et plus encore.
