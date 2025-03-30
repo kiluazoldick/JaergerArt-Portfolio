@@ -321,6 +321,13 @@ header.sticky {
   margin-bottom: 1.4rem;
 }
 
+.row video {
+  height: auto;
+  width: 100%;
+  border-radius: 28px;
+  margin-bottom: 1.4rem;
+}
+
 .row {
   background: #2d343f;
   border-radius: 28px;
